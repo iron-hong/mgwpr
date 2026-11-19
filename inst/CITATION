@@ -1,0 +1,13 @@
+citHeader("To cite the MGWPR package and its methodological basis:")
+
+citEntry(
+  entry = "Article",
+  title = "Spatial Context as a Time-Invariant Confounder: A Fixed-Effects Extension of MGWR",
+  author = personList(person("Zhipeng", "Li"), person("A. Stewart", "Fotheringham")),
+  journal = "Annals of the American Association of Geographers",
+  volume = "116",
+  number = "9",
+  pages = "2294--2318",
+  year = "2026",
+  doi = "10.1080/24694452.2026.2654481"
+)

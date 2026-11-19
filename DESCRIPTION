@@ -1,0 +1,21 @@
+Package: MGWPR
+Type: Package
+Title: Multiscale Geographically Weighted Panel Regression
+Version: 0.0.1
+Authors@R: person("MGWPR", "Maintainers", role = c("aut", "cre"), email = "noreply@example.com")
+Description: Fits pooled and individual fixed-effects multiscale geographically
+    weighted panel regression models using spatial kernel weighting and
+    predictor-specific bandwidths. Includes iterative backfitting, bandwidth
+    selection by leave-one-location-out cross-validation, model summaries, and
+    spatial coefficient, context-effect, and significance maps. Provides
+    coefficient-surface accuracy metrics and conditional local inference for
+    pooled and fixed-effects fits. Supports Gaussian and pooled binomial
+    responses, five spatial kernels, sf-based mapping, and spatial-panel
+    diagnostic procedures. Includes a reproducible spatial panel data
+    simulation utility with known coefficient surfaces, and MGWR estimation
+    through the GWmodel package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports: ggplot2, sf, stats, utils
+Suggests: GWmodel
