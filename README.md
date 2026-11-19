@@ -224,6 +224,6 @@ plot_coefficients(fit_mgwr, variables = c("x1", "x2", "x3", "x4"))
 ## References
 
 Li, Z. & Fotheringham, A. S. (2026). Spatial Context as a Time-Invariant Confounder: A Fixed-Effects Extension of MGWR. *Annals of the American Association of Geographers*, 116(9), 2294–2318. <https://doi.org/10.1080/24694452.2026.2654481>
-![MGWFER: Causal Spatially Varying Coefficients via Panel Fixed Effects ]([https://example.com](https://carlos-mendez.org/tutorials/python_mgwrfer/#15-local-model-lineup-mgwr_cs-vs-pmgwr-vs-mgwfer-paper-table-3-and-figures-5-9)) 
+MGWFER: Causal Spatially Varying Coefficients via Panel Fixed Effects <https://carlos-mendez.org/tutorials/python_mgwrfer/#15-local-model-lineup-mgwr_cs-vs-pmgwr-vs-mgwfer-paper-table-3-and-figures-5-9>
 
 Python reference implementation: <https://github.com/GeoZhipengLi/MGWPR>
