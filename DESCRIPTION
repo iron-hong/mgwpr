@@ -2,7 +2,7 @@ Package: MGWPR
 Type: Package
 Title: Multiscale Geographically Weighted Panel Regression
 Version: 0.0.1
-Authors@R: Iron Hong("MGWPR", "Maintainers", role = c("aut", "cre"), email = "righttocity123@gmail.com")
+Authors@R: person("Iron", "Hong", role = c("aut", "cre", "cph"), email = "righttocity123@gmail.com")
 Description: Fits pooled and individual fixed-effects multiscale geographically
     weighted panel regression models using spatial kernel weighting and
     predictor-specific bandwidths. Includes iterative backfitting, bandwidth
